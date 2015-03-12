@@ -1,0 +1,7 @@
+[apikey]
+key = your api key
+secret = your api secret
+
+[token]
+token = your token
+secret = your token secret
